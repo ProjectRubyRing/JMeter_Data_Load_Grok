@@ -1,0 +1,15 @@
+out/
+tests/out/
+*.xlsm
+*.xlsx
+*.csv
+*.sql
+*.plan.txt
+!examples/*.plan.txt
+run-state.txt
+*.cnf
+*.exe
+tools/ps/native/*.dll
+.vs/
+bin/
+obj/
